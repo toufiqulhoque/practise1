@@ -1,0 +1,91 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 30px;
+}
+section{
+    display: flex;
+}
+p{
+    color: #797979;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .main-pic{
+      margin-left: 20%;
+      margin-top: 10%;
+  }
+  
+  h1{
+      font-size: 50px;
+  }
+  h3{
+      font-size: 30px;
+      ;
+  }
+  .info{
+      margin-top: 20%;
+      
+  }
+
+  .social{
+      display: flex;
+      height: 2rem;
+      width: 2rem;
+  }
+  .btn a{
+      
+      text-decoration: none;
+      color: white;
+      padding: 10px 40px;
+      background-image: linear-gradient(purple, blue);
+  }
+  .btn a:hover{
+    background-image: linear-gradient(to right, blue, purple);
+  }
+  .btn{
+    margin-top: 10%;
+  }
+  .customer{
+      width: 200px;
+      height: 150px;
+      background-color: #f6f7fc;
+      text-align: center;
+  }
+  .ticket{
+    width: 200px;
+    height: 150px;
+    background-color: #f6f7fc;
+    text-align: center;
+
+  }
+  .average{
+    width: 200px;
+    height: 150px;
+    background-color: #f6f7fc;
+    text-align: center;
+
+  }
+  .service{
+      margin-top: 20%;
+      display: flex;
+  }
+  .info2{
+      
+      padding: 10%;
+  }
